@@ -3,4 +3,4 @@ El tutorial de GitHub
 
 Seguimos en sexta hora del jueves
 
-Dentro de un ratito plegaremos.
+Dentro de un ratito plegaremos, cada vez queda menos
